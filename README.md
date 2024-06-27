@@ -32,7 +32,7 @@ Welcome to the **Stepper Motor Calculator**! This is a desktop application desig
 
 1. **Run the application**:
     ```sh
-    python stepper_motor_calculator.py
+    python main.py
     ```
 2. **Input the required parameters**:
     - **Step angle (degrees)**: The step angle of your stepper motor.
@@ -144,13 +144,10 @@ def show_custom_error(self, title, message):
 - Tkinter library for providing the GUI components.
 - The open-source community for continuous support and improvements.
 
-## Contributing
-
-Contributions are welcome! Please read the [CONTRIBUTING](CONTRIBUTING.md) file for more details.
 
 ## Contact
 
-For any inquiries, please contact [kareemahmedmohamed370@gmail.com](kareemahmedmohamed370@gmail.com).
+For any inquiries, please contact [kareemahmedmohamed370@gmail.com](https://mail.google.com/mail).
 
 ---
 
